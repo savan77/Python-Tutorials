@@ -1,7 +1,7 @@
 # Python-Tutorials
 This repository contains jupyter notebooks for Python. Topics covered in each notebook are :
 1. Basics
-..* Introduction to Python
+   * Introduction to Python
 ..* How it works
 ..* Variables
 ..* User Input
