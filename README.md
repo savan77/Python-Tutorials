@@ -53,3 +53,7 @@ This repository contains jupyter notebooks for Python. Topics covered in each no
    * filter()
    
 8. OOP
+9. Scientific Python
+   * Numpy
+   * Matplotlib
+   * Pandas
